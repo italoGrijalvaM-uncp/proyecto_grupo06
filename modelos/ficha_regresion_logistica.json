@@ -1,0 +1,18 @@
+{
+    "nombre_modelo": "regresion_logistica",
+    "fecha_evaluacion_utc": "2026-10-18T21:37:25.499582+00:00",
+    "dataset": "UCI Spambase",
+    "parametros": "{'C': 1.0, 'class_weight': None, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': 0.0, 'max_iter': 1000, 'n_jobs': None, 'penalty': 'deprecated', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",
+    "metricas_validacion": {
+        "f1_score": 0.838,
+        "precision": 0.8151,
+        "recall": 0.8623,
+        "pr_auc": 0.9018
+    },
+    "metricas_prueba": {
+        "f1_score": 0.8819,
+        "precision": 0.9118,
+        "recall": 0.854,
+        "pr_auc": 0.9511
+    }
+}
