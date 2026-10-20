@@ -1,6 +1,0 @@
-{
-    "modelo_promovido": "mlp_v1",
-    "criterio_seleccion": "Mayor F1-Score en conjunto de validación",
-    "fecha_promocion_utc": "2026-10-18T21:37:25.550265+00:00",
-    "archivo_produccion": "modelo_produccion.joblib"
-}
